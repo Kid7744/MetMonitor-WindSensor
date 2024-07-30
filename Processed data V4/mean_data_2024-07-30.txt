@@ -1,0 +1,7 @@
+	DateTime	Wind Speed - m/s (1 min)	Wind Direction - Deg (1 min)	3-sec Gust - m/s (1 min)	Wind Speed - m/s (10 min)	Wind Direction - Deg (10 min)	3-sec Gust - m/s (10 min)	Wind Speed - m/s (1 hour)	Wind Direction - Deg(1 hour)	3-sec Gust - m/s (1 hour)
+0	2024-07-30 16:26:00	0.0234	132.0	0.0533	nan	nan	nan	nan	nan	nan
+1	2024-07-30 16:27:00	0.0218	168.0	0.0567	nan	nan	nan	nan	nan	nan
+2	2024-07-30 16:28:00	0.0197	130.0	0.05	nan	nan	nan	nan	nan	nan
+3	2024-07-30 16:29:00	0.0238	227.0	0.0667	nan	nan	nan	nan	nan	nan
+4	2024-07-30 16:30:00	0.0263	228.0	0.0733	nan	nan	nan	nan	nan	nan
+5	2024-07-30 16:31:00	0.0092	210.0	0.02	nan	nan	nan	nan	nan	nan
