@@ -372,7 +372,7 @@ try:
             update_min = datetime.datetime.now().strftime("%H:%M:00")
             update_placeholder.markdown(f"Last Updated: {update_min}")
 
-        time.sleep(15) 
+        time.sleep(25) 
 
 except:
     print("Program ended....")
