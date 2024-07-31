@@ -827,7 +827,7 @@ try:
             wstime_30days_placeholder.altair_chart(ws30days_lc, use_container_width = True)
             wstext_30days_placeholder.markdown(f"Date: {str(past_30_date_list[-1])} - {str(past_30_date_list[0])}")     
 
-        time.sleep(25) 
+        time.sleep(15) 
 
 except KeyboardInterrupt:
     print("Program ended....")
