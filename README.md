@@ -20,7 +20,7 @@ Serial interfacing + GUI program of offshore wind sensor
 
 ## Contributors
 
-Developed by [Faisal Hasbi](https://www.linkedin.com/in/faisal-hasbi-032b31248/) and early contributions from [Irfan Syafi](https://www.linkedin.com/in/irfan-syafi/) ❤️
+Developed by [Faisal Hasbi](https://www.linkedin.com/in/faisal-hasbi-032b31248/) and early contributions from [Irfan Syafi](https://www.linkedin.com/in/irfan-syafi/)
 
 [@Kid774 - Github Profile](https://github.com/Kid7744)<br>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-hasbi-032b31248/)
